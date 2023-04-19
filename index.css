@@ -58,6 +58,11 @@ body {
     color: rgb(55, 35, 167);
 }
 
+.intro .transparent {
+    position: absolute;
+    color: transparent;
+}
+
 .intro {
     position: relative;
     display: flex;
