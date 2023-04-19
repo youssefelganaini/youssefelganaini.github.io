@@ -61,6 +61,7 @@ body {
 .intro .transparent {
     position: absolute;
     color: transparent;
+    top: 1px;
 }
 
 .intro {
@@ -72,6 +73,7 @@ body {
     padding-bottom: 90px;
     align-items: center;
     justify-content: center;
+    
 }
 .first {
     height: 100vh;
@@ -85,6 +87,7 @@ body {
 }
 
 .pic {
+    padding: 10px;
     position: relative;
     justify-content: center;
 }
@@ -128,7 +131,6 @@ body {
     font-weight: 600;
     border-radius: 8px;
     color: #ededed;
-    
 }
 
 .button a:hover {
@@ -172,7 +174,7 @@ body {
 }
 
 .contact {
-    padding: 180px;
+    padding: 170px;
     height: 100vh;
     position: relative;
 }
@@ -218,5 +220,3 @@ body {
   .form textarea {
     line-height: 50px;
   }
-  
-
